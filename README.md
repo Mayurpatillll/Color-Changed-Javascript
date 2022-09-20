@@ -1,4 +1,4 @@
-# Project Name : Javascript Color Changer 
+# Project Name : Javascript Color Changer Project
 
 ## Project Image 
 
